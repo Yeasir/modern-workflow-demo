@@ -1,0 +1,28 @@
+{
+  "name": "modern-workflow-demo",
+  "version": "1.0.0",
+  "description": "A TypeScript + Sass + Browserify + Gulp + Karma + BroserSync workflow demo",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yeasir/modern-workflow-demo.git"
+  },
+  "author": "Yeasir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeasir/modern-workflow-demo/issues"
+  },
+  "homepage": "https://github.com/Yeasir/modern-workflow-demo",
+  "devDependencies": {
+    "typescript": "^2.0.3",
+    "gulp-typescript": "^3.0.2",
+    "tslint": "^3.15.1",
+    "gulp-tslint": "^6.1.2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
